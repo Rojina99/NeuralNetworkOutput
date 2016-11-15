@@ -1,1 +1,30 @@
 Here I will list some important references that helped me in this project:
+
+[1] J. Heaton, Introduction to neural networks for java, Second edition, 2nd ed. New York, NY, United States: Heaton Research, United States, 2008
+[2] J. Heaton, Programming neural networks with Encog3 in java. United States: Heaton Research, 2011
+[3] J. Han, M. Kamber, and J. Pei, Data mining: Concepts and techniques, 3rd ed. New Delhi, India: Elsevier India, 2011
+[4] J. Brownlee, "Gradient descent for machine learning," in Machine Learning Algorithms, Machine Learning Mastery, 2016. [Online]. Available: http://machinelearningmastery.com/gradient-descent-for-machine-learning/
+[5] L. Jacobson, "Simulated Annealing for beginners,". [Online]. Available: http://www.theprojectspot.com/tutorial-post/simulated-annealing-algorithm-for-beginners/6
+[6] "UCI machine learning repository: Pima Indians diabetes data set," 1990. [Online]. Available: https://archive.ics.uci.edu/ml/datasets/Pima+Indians+Diabetes
+[7] M. A. Nielsen, "How the backpropagation algorithm works," Determination Press, 2015. [Online]. Available: http://neuralnetworksanddeeplearning.com/chap2.html
+[8] J. Heaton, "Encog machine learning framework," in Heaton Research, 2016. [Online]. Available: http://www.heatonresearch.com/encog/
+[9] "Java neural network framework Neuroph,". [Online]. Available: http://neuroph.sourceforge.net/index.html
+
+
+Some of the video tutorial that might be helpful are:
+Jeff Heaton's:
+[1]https://www.youtube.com/watch?v=PNqc4fkdfIo&list=PL6DA09D4349A1EB86 
+[2]https://www.youtube.com/watch?v=ujBiM9stPHU&list=PLC112AD1C69432FDB
+[3]https://www.youtube.com/watch?v=TH7WyX4E3dE&list=PLB0F1B414487594FF
+
+Ryan Harris:
+[4]https://www.youtube.com/watch?v=aVId8KMsdUU&list=PL29C61214F2146796
+
+Google Developers:
+[5]https://www.youtube.com/watch?v=cKxRvEZd3Mw
+
+DeepLearning.TV
+[6]https://www.youtube.com/watch?v=P2HPcj8lRJE&list=PLjJh1vlSEYgvZ3ze_4pxKHNh1g5PId36-
+
+Geoffrey Hinton
+[7]https://www.youtube.com/watch?v=GJdWESd543Y
