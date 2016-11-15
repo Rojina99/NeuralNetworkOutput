@@ -1,0 +1,11 @@
+Here the main class to be run is ReadInput.java that is under the package readcsv.
+
+We can input the values of parameters as per pimaindianwhole.csv.
+
+And if the values of output range > 0 then the value is tested positive and the user has diabetes.
+
+Otherwise user donot have diabetes.
+
+Here notice that the parameter diabetes pedigree has no actual relevance.
+We need a whole different set of algorithm to take input of diabetes pedigree from actual users. 
+
