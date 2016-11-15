@@ -1,0 +1,7 @@
+Here I have used pimaindian data set available in UCI machine learning repository.
+
+The complete data set used is:
+Pima Indian Whole
+
+The other data set normalized into different forms are:
+Pima Indians -1 to 1 for test, training and one of whole data sets 
