@@ -1,0 +1,6 @@
+Here I have used xml files for object serialization and deserialization
+
+So weighttest,trained,trainedwhole.xml carries the weight of neural network joining each neurons.
+
+And minmaxvalue.xml is the minimum and maximum value input by user among the whole data set for given parameter.
+
