@@ -1,0 +1,3 @@
+The external library I have used is decimal4j-1.0.1
+
+You also can find library of this project as NeuralForward.jar.
