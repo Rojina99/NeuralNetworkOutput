@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_92" class="java.beans.XMLDecoder">
+ <object class="java.util.LinkedHashMap">
+  <void method="put">
+   <int>0</int>
+   <double>0.15634401479702736</double>
+  </void>
+  <void method="put">
+   <int>1</int>
+   <double>-1.2743839130678463</double>
+  </void>
+  <void method="put">
+   <int>2</int>
+   <double>-0.07611402164217422</double>
+  </void>
+  <void method="put">
+   <int>3</int>
+   <double>-0.0947934331719494</double>
+  </void>
+  <void method="put">
+   <int>4</int>
+   <double>-1.122271006720638</double>
+  </void>
+  <void method="put">
+   <int>5</int>
+   <double>-0.18385669113322903</double>
+  </void>
+  <void method="put">
+   <int>6</int>
+   <double>-0.0982932247946175</double>
+  </void>
+  <void method="put">
+   <int>7</int>
+   <double>0.3913680677487683</double>
+  </void>
+  <void method="put">
+   <int>8</int>
+   <double>-0.7659091283265815</double>
+  </void>
+ </object>
+ <object class="java.util.LinkedHashMap">
+  <void method="put">
+   <int>0</int>
+   <double>-0.2873600000000018</double>
+  </void>
+  <void method="put">
+   <int>1</int>
+   <double>-0.7861118786195072</double>
+  </void>
+  <void method="put">
+   <int>2</int>
+   <double>-0.19302666666696844</double>
+  </void>
+  <void method="put">
+   <int>3</int>
+   <double>-0.11108505362675282</double>
+  </void>
+  <void method="put">
+   <int>4</int>
+   <double>-0.3429599999999769</double>
+  </void>
+  <void method="put">
+   <int>5</int>
+   <double>0.025606666667513114</double>
+  </void>
+  <void method="put">
+   <int>6</int>
+   <double>0.1922155723930791</double>
+  </void>
+  <void method="put">
+   <int>7</int>
+   <double>0.266905947452764</double>
+  </void>
+  <void method="put">
+   <int>8</int>
+   <double>0.2334955572468926</double>
+  </void>
+ </object>
+ <object class="java.util.LinkedHashMap">
+  <void method="put">
+   <int>0</int>
+   <double>0.7365390659881117</double>
+  </void>
+  <void method="put">
+   <int>1</int>
+   <double>-1.3299099999999717</double>
+  </void>
+  <void method="put">
+   <int>2</int>
+   <double>-0.2595933333333312</double>
+  </void>
+  <void method="put">
+   <int>3</int>
+   <double>0.09868999999762272</double>
+  </void>
+  <void method="put">
+   <int>4</int>
+   <double>0.0821599996576771</double>
+  </void>
+  <void method="put">
+   <int>5</int>
+   <double>0.2221399999999963</double>
+  </void>
+  <void method="put">
+   <int>6</int>
+   <double>0.2983292255955179</double>
+  </void>
+  <void method="put">
+   <int>7</int>
+   <double>0.3074400795335686</double>
+  </void>
+  <void method="put">
+   <int>8</int>
+   <double>0.3887633326059427</double>
+  </void>
+ </object>
+ <object class="java.util.LinkedHashMap">
+  <void method="put">
+   <int>0</int>
+   <double>0.7547399525617244</double>
+  </void>
+  <void method="put">
+   <int>1</int>
+   <double>-1.4652599999999754</double>
+  </void>
+  <void method="put">
+   <int>2</int>
+   <double>-0.2727933335924773</double>
+  </void>
+  <void method="put">
+   <int>3</int>
+   <double>0.15781500000000004</double>
+  </void>
+  <void method="put">
+   <int>4</int>
+   <double>0.3107600000000018</double>
+  </void>
+  <void method="put">
+   <int>5</int>
+   <double>0.3084233333333289</double>
+  </void>
+  <void method="put">
+   <int>6</int>
+   <double>0.3434685717041126</double>
+  </void>
+  <void method="put">
+   <int>7</int>
+   <double>0.3115979732005799</double>
+  </void>
+  <void method="put">
+   <int>8</int>
+   <double>0.5258955555555633</double>
+  </void>
+ </object>
+ <object class="java.util.LinkedHashMap">
+  <void method="put">
+   <int>0</int>
+   <double>-2.9508547665236597</double>
+  </void>
+  <void method="put">
+   <int>1</int>
+   <double>-0.2679659874702347</double>
+  </void>
+  <void method="put">
+   <int>2</int>
+   <double>0.7912980086908543</double>
+  </void>
+  <void method="put">
+   <int>3</int>
+   <double>0.9651901590671524</double>
+  </void>
+ </object>
+</java>
